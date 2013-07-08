@@ -55,9 +55,9 @@ Signup: [http://denvernodebots.eventbrite.com](http://denvernodebots.eventbrite.
 
 ### Kansas City
 
-Organizers: [@heavysixer](https://twitter.com/heavysixer)<br>
-Location: TBD<br>
-Hours: 10am - 5pm CST<br>
+Organizers: [@heavysixer](https://twitter.com/heavysixer), [@joeandaverde](https://twitter.com/joeandaverde)<br>
+Location: [2009 Baltimore Ave, Kansas City, MO 64108](http://goo.gl/maps/uNWVm)<br>
+Hours: 9am - 6pm CST<br>
 Signup: https://tito.io/nodebotsday/nodebotsday-kc
 
 ### Kelowna, BC, Canada
